@@ -111,4 +111,4 @@ Detection uses regex rules per sensitivity type:
 
 - GitHub repository: `<ADD_LINK>`
 - Video demonstration (Loom): `<ADD_LINK>`
-- Cloud-hosted demo: `<ADD_LINK>`
+- Cloud-hosted demo: `https://message-intelligence-system-mrfl.onrender.com/`
