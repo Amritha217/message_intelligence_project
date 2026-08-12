@@ -110,5 +110,5 @@ Detection uses regex rules per sensitivity type:
 ## Links
 
 - GitHub repository: `<ADD_LINK>`
-- Video demonstration (Loom): `<ADD_LINK>`
+- Video demonstration (Loom): `https://www.loom.com/share/4480bf82b0ba43099cc9788688b42dfc`
 - Cloud-hosted demo: `https://message-intelligence-system-mrfl.onrender.com`
