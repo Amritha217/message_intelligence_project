@@ -141,6 +141,5 @@ Threshold 2 clearly over-merges (one group swallowed nearly the entire dataset).
 
 ## Links
 
-- GitHub repository: `<ADD_LINK>`
 - Video demonstration (Loom): `<ADD_LINK>`
-- Cloud-hosted demo: `<ADD_LINK>`
+- Cloud-hosted demo: `https://message-intelligence-system-mrfl.onrender.com/`
