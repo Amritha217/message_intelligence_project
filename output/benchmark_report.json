@@ -1,0 +1,23 @@
+[
+  {
+    "threshold": 2,
+    "total_groups_with_2plus_messages": 18,
+    "avg_messages_per_group": 59.5,
+    "largest_group_size": 905,
+    "time_seconds": 0.112
+  },
+  {
+    "threshold": 3,
+    "total_groups_with_2plus_messages": 66,
+    "avg_messages_per_group": 15.7,
+    "largest_group_size": 543,
+    "time_seconds": 0.128
+  },
+  {
+    "threshold": 4,
+    "total_groups_with_2plus_messages": 104,
+    "avg_messages_per_group": 7.44,
+    "largest_group_size": 44,
+    "time_seconds": 0.186
+  }
+]

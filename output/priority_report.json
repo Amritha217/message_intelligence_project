@@ -1,0 +1,2136 @@
+[
+  {
+    "message_id": "MSG_0001",
+    "item_id": "EVENT_001",
+    "priority": "low",
+    "reason": "No strong urgency signals found.",
+    "signals": [],
+    "confidence": 0.5,
+    "updated_by_message_id": null
+  },
+  {
+    "message_id": "MSG_0003",
+    "item_id": "TASK_001",
+    "priority": "low",
+    "reason": "Updated by follow-up message MSG_0866 with signals [].",
+    "signals": [],
+    "confidence": 0.5,
+    "updated_by_message_id": "MSG_0866"
+  },
+  {
+    "message_id": "MSG_0010",
+    "item_id": "TASK_002",
+    "priority": "low",
+    "reason": "Priority based on signals: ['response_required']",
+    "signals": [
+      "response_required"
+    ],
+    "confidence": 0.6,
+    "updated_by_message_id": null
+  },
+  {
+    "message_id": "MSG_0011",
+    "item_id": "EVENT_002",
+    "priority": "low",
+    "reason": "Updated by follow-up message MSG_0683 with signals [].",
+    "signals": [],
+    "confidence": 0.5,
+    "updated_by_message_id": "MSG_0683"
+  },
+  {
+    "message_id": "MSG_0023",
+    "item_id": "EVENT_003",
+    "priority": "high",
+    "reason": "Updated by follow-up message MSG_0822 with signals [].",
+    "signals": [
+      "response_required",
+      "urgent_keyword"
+    ],
+    "confidence": 0.7,
+    "updated_by_message_id": "MSG_0822"
+  },
+  {
+    "message_id": "MSG_0024",
+    "item_id": "EVENT_004",
+    "priority": "high",
+    "reason": "Updated by follow-up message MSG_0773 with signals ['urgent_keyword'].",
+    "signals": [
+      "response_required",
+      "urgent_keyword"
+    ],
+    "confidence": 0.7,
+    "updated_by_message_id": "MSG_0773"
+  },
+  {
+    "message_id": "MSG_0028",
+    "item_id": "TASK_003",
+    "priority": "medium",
+    "reason": "Priority based on signals: ['deadline_soon']",
+    "signals": [
+      "deadline_soon"
+    ],
+    "confidence": 0.6,
+    "updated_by_message_id": null
+  },
+  {
+    "message_id": "MSG_0032",
+    "item_id": "TASK_004",
+    "priority": "medium",
+    "reason": "Priority based on signals: ['urgent_keyword']",
+    "signals": [
+      "urgent_keyword"
+    ],
+    "confidence": 0.6,
+    "updated_by_message_id": null
+  },
+  {
+    "message_id": "MSG_0033",
+    "item_id": "EVENT_005",
+    "priority": "high",
+    "reason": "Updated by follow-up message MSG_0562 with signals [].",
+    "signals": [
+      "response_required",
+      "urgent_keyword"
+    ],
+    "confidence": 0.7,
+    "updated_by_message_id": "MSG_0562"
+  },
+  {
+    "message_id": "MSG_0035",
+    "item_id": "TASK_005",
+    "priority": "low",
+    "reason": "No strong urgency signals found.",
+    "signals": [],
+    "confidence": 0.5,
+    "updated_by_message_id": null
+  },
+  {
+    "message_id": "MSG_0041",
+    "item_id": "EVENT_006",
+    "priority": "low",
+    "reason": "No strong urgency signals found.",
+    "signals": [],
+    "confidence": 0.5,
+    "updated_by_message_id": null
+  },
+  {
+    "message_id": "MSG_0042",
+    "item_id": "EVENT_007",
+    "priority": "low",
+    "reason": "No strong urgency signals found.",
+    "signals": [],
+    "confidence": 0.5,
+    "updated_by_message_id": null
+  },
+  {
+    "message_id": "MSG_0043",
+    "item_id": "EVENT_008",
+    "priority": "high",
+    "reason": "Updated by follow-up message MSG_0797 with signals ['urgent_keyword'].",
+    "signals": [
+      "deadline_soon",
+      "response_required",
+      "urgent_keyword"
+    ],
+    "confidence": 0.8,
+    "updated_by_message_id": "MSG_0797"
+  },
+  {
+    "message_id": "MSG_0044",
+    "item_id": "TASK_006",
+    "priority": "low",
+    "reason": "No strong urgency signals found.",
+    "signals": [],
+    "confidence": 0.5,
+    "updated_by_message_id": null
+  },
+  {
+    "message_id": "MSG_0045",
+    "item_id": "TASK_007",
+    "priority": "medium",
+    "reason": "Priority based on signals: ['urgent_keyword']",
+    "signals": [
+      "urgent_keyword"
+    ],
+    "confidence": 0.6,
+    "updated_by_message_id": null
+  },
+  {
+    "message_id": "MSG_0046",
+    "item_id": "TASK_008",
+    "priority": "low",
+    "reason": "No strong urgency signals found.",
+    "signals": [],
+    "confidence": 0.5,
+    "updated_by_message_id": null
+  },
+  {
+    "message_id": "MSG_0049",
+    "item_id": "EVENT_009",
+    "priority": "low",
+    "reason": "No strong urgency signals found.",
+    "signals": [],
+    "confidence": 0.5,
+    "updated_by_message_id": null
+  },
+  {
+    "message_id": "MSG_0051",
+    "item_id": "TASK_009",
+    "priority": "high",
+    "reason": "Updated by follow-up message MSG_0711 with signals ['response_required'].",
+    "signals": [
+      "response_required",
+      "urgent_keyword"
+    ],
+    "confidence": 0.7,
+    "updated_by_message_id": "MSG_0711"
+  },
+  {
+    "message_id": "MSG_0055",
+    "item_id": "EVENT_010",
+    "priority": "low",
+    "reason": "No strong urgency signals found.",
+    "signals": [],
+    "confidence": 0.5,
+    "updated_by_message_id": null
+  },
+  {
+    "message_id": "MSG_0060",
+    "item_id": "TASK_010",
+    "priority": "low",
+    "reason": "No strong urgency signals found.",
+    "signals": [],
+    "confidence": 0.5,
+    "updated_by_message_id": null
+  },
+  {
+    "message_id": "MSG_0062",
+    "item_id": "EVENT_011",
+    "priority": "low",
+    "reason": "No strong urgency signals found.",
+    "signals": [],
+    "confidence": 0.5,
+    "updated_by_message_id": null
+  },
+  {
+    "message_id": "MSG_0065",
+    "item_id": "TASK_011",
+    "priority": "low",
+    "reason": "No strong urgency signals found.",
+    "signals": [],
+    "confidence": 0.5,
+    "updated_by_message_id": null
+  },
+  {
+    "message_id": "MSG_0066",
+    "item_id": "EVENT_012",
+    "priority": "high",
+    "reason": "Priority based on signals: ['deadline_overdue', 'response_required']",
+    "signals": [
+      "deadline_overdue",
+      "response_required"
+    ],
+    "confidence": 0.7,
+    "updated_by_message_id": null
+  },
+  {
+    "message_id": "MSG_0077",
+    "item_id": "EVENT_013",
+    "priority": "low",
+    "reason": "No strong urgency signals found.",
+    "signals": [],
+    "confidence": 0.5,
+    "updated_by_message_id": null
+  },
+  {
+    "message_id": "MSG_0089",
+    "item_id": "TASK_012",
+    "priority": "medium",
+    "reason": "Priority based on signals: ['deadline_soon']",
+    "signals": [
+      "deadline_soon"
+    ],
+    "confidence": 0.6,
+    "updated_by_message_id": null
+  },
+  {
+    "message_id": "MSG_0097",
+    "item_id": "EVENT_014",
+    "priority": "medium",
+    "reason": "Updated by follow-up message MSG_0821 with signals [].",
+    "signals": [
+      "deadline_soon"
+    ],
+    "confidence": 0.6,
+    "updated_by_message_id": "MSG_0821"
+  },
+  {
+    "message_id": "MSG_0100",
+    "item_id": "TASK_013",
+    "priority": "high",
+    "reason": "Updated by follow-up message MSG_0645 with signals [].",
+    "signals": [
+      "response_required",
+      "urgent_keyword"
+    ],
+    "confidence": 0.7,
+    "updated_by_message_id": "MSG_0645"
+  },
+  {
+    "message_id": "MSG_0101",
+    "item_id": "TASK_014",
+    "priority": "low",
+    "reason": "No strong urgency signals found.",
+    "signals": [],
+    "confidence": 0.5,
+    "updated_by_message_id": null
+  },
+  {
+    "message_id": "MSG_0110",
+    "item_id": "EVENT_015",
+    "priority": "low",
+    "reason": "No strong urgency signals found.",
+    "signals": [],
+    "confidence": 0.5,
+    "updated_by_message_id": null
+  },
+  {
+    "message_id": "MSG_0114",
+    "item_id": "TASK_015",
+    "priority": "low",
+    "reason": "No strong urgency signals found.",
+    "signals": [],
+    "confidence": 0.5,
+    "updated_by_message_id": null
+  },
+  {
+    "message_id": "MSG_0115",
+    "item_id": "TASK_016",
+    "priority": "low",
+    "reason": "No strong urgency signals found.",
+    "signals": [],
+    "confidence": 0.5,
+    "updated_by_message_id": null
+  },
+  {
+    "message_id": "MSG_0122",
+    "item_id": "TASK_017",
+    "priority": "low",
+    "reason": "No strong urgency signals found.",
+    "signals": [],
+    "confidence": 0.5,
+    "updated_by_message_id": null
+  },
+  {
+    "message_id": "MSG_0123",
+    "item_id": "EVENT_016",
+    "priority": "low",
+    "reason": "No strong urgency signals found.",
+    "signals": [],
+    "confidence": 0.5,
+    "updated_by_message_id": null
+  },
+  {
+    "message_id": "MSG_0127",
+    "item_id": "TASK_018",
+    "priority": "low",
+    "reason": "No strong urgency signals found.",
+    "signals": [],
+    "confidence": 0.5,
+    "updated_by_message_id": null
+  },
+  {
+    "message_id": "MSG_0131",
+    "item_id": "EVENT_017",
+    "priority": "low",
+    "reason": "No strong urgency signals found.",
+    "signals": [],
+    "confidence": 0.5,
+    "updated_by_message_id": null
+  },
+  {
+    "message_id": "MSG_0135",
+    "item_id": "TASK_019",
+    "priority": "low",
+    "reason": "No strong urgency signals found.",
+    "signals": [],
+    "confidence": 0.5,
+    "updated_by_message_id": null
+  },
+  {
+    "message_id": "MSG_0138",
+    "item_id": "EVENT_018",
+    "priority": "low",
+    "reason": "No strong urgency signals found.",
+    "signals": [],
+    "confidence": 0.5,
+    "updated_by_message_id": null
+  },
+  {
+    "message_id": "MSG_0144",
+    "item_id": "TASK_020",
+    "priority": "high",
+    "reason": "Priority based on signals: ['deadline_today']",
+    "signals": [
+      "deadline_today"
+    ],
+    "confidence": 0.6,
+    "updated_by_message_id": null
+  },
+  {
+    "message_id": "MSG_0145",
+    "item_id": "TASK_021",
+    "priority": "high",
+    "reason": "Priority based on signals: ['deadline_overdue']",
+    "signals": [
+      "deadline_overdue"
+    ],
+    "confidence": 0.6,
+    "updated_by_message_id": null
+  },
+  {
+    "message_id": "MSG_0150",
+    "item_id": "TASK_022",
+    "priority": "high",
+    "reason": "Priority based on signals: ['deadline_overdue']",
+    "signals": [
+      "deadline_overdue"
+    ],
+    "confidence": 0.6,
+    "updated_by_message_id": null
+  },
+  {
+    "message_id": "MSG_0151",
+    "item_id": "EVENT_019",
+    "priority": "medium",
+    "reason": "Priority based on signals: ['deadline_soon']",
+    "signals": [
+      "deadline_soon"
+    ],
+    "confidence": 0.6,
+    "updated_by_message_id": null
+  },
+  {
+    "message_id": "MSG_0160",
+    "item_id": "TASK_023",
+    "priority": "critical",
+    "reason": "Priority based on signals: ['deadline_today', 'urgent_keyword']",
+    "signals": [
+      "deadline_today",
+      "urgent_keyword"
+    ],
+    "confidence": 0.7,
+    "updated_by_message_id": null
+  },
+  {
+    "message_id": "MSG_0163",
+    "item_id": "TASK_024",
+    "priority": "low",
+    "reason": "No strong urgency signals found.",
+    "signals": [],
+    "confidence": 0.5,
+    "updated_by_message_id": null
+  },
+  {
+    "message_id": "MSG_0168",
+    "item_id": "EVENT_020",
+    "priority": "low",
+    "reason": "No strong urgency signals found.",
+    "signals": [],
+    "confidence": 0.5,
+    "updated_by_message_id": null
+  },
+  {
+    "message_id": "MSG_0170",
+    "item_id": "EVENT_021",
+    "priority": "high",
+    "reason": "Priority based on signals: ['deadline_today']",
+    "signals": [
+      "deadline_today"
+    ],
+    "confidence": 0.6,
+    "updated_by_message_id": null
+  },
+  {
+    "message_id": "MSG_0177",
+    "item_id": "TASK_025",
+    "priority": "low",
+    "reason": "No strong urgency signals found.",
+    "signals": [],
+    "confidence": 0.5,
+    "updated_by_message_id": null
+  },
+  {
+    "message_id": "MSG_0184",
+    "item_id": "EVENT_022",
+    "priority": "low",
+    "reason": "Priority based on signals: ['response_required']",
+    "signals": [
+      "response_required"
+    ],
+    "confidence": 0.6,
+    "updated_by_message_id": null
+  },
+  {
+    "message_id": "MSG_0190",
+    "item_id": "EVENT_023",
+    "priority": "low",
+    "reason": "No strong urgency signals found.",
+    "signals": [],
+    "confidence": 0.5,
+    "updated_by_message_id": null
+  },
+  {
+    "message_id": "MSG_0198",
+    "item_id": "EVENT_024",
+    "priority": "low",
+    "reason": "No strong urgency signals found.",
+    "signals": [],
+    "confidence": 0.5,
+    "updated_by_message_id": null
+  },
+  {
+    "message_id": "MSG_0208",
+    "item_id": "TASK_026",
+    "priority": "high",
+    "reason": "Priority based on signals: ['deadline_today']",
+    "signals": [
+      "deadline_today"
+    ],
+    "confidence": 0.6,
+    "updated_by_message_id": null
+  },
+  {
+    "message_id": "MSG_0209",
+    "item_id": "EVENT_025",
+    "priority": "low",
+    "reason": "No strong urgency signals found.",
+    "signals": [],
+    "confidence": 0.5,
+    "updated_by_message_id": null
+  },
+  {
+    "message_id": "MSG_0216",
+    "item_id": "EVENT_026",
+    "priority": "medium",
+    "reason": "Priority based on signals: ['urgent_keyword']",
+    "signals": [
+      "urgent_keyword"
+    ],
+    "confidence": 0.6,
+    "updated_by_message_id": null
+  },
+  {
+    "message_id": "MSG_0228",
+    "item_id": "EVENT_027",
+    "priority": "low",
+    "reason": "No strong urgency signals found.",
+    "signals": [],
+    "confidence": 0.5,
+    "updated_by_message_id": null
+  },
+  {
+    "message_id": "MSG_0245",
+    "item_id": "TASK_027",
+    "priority": "medium",
+    "reason": "Priority based on signals: ['deadline_soon']",
+    "signals": [
+      "deadline_soon"
+    ],
+    "confidence": 0.6,
+    "updated_by_message_id": null
+  },
+  {
+    "message_id": "MSG_0249",
+    "item_id": "TASK_028",
+    "priority": "medium",
+    "reason": "Priority based on signals: ['urgent_keyword']",
+    "signals": [
+      "urgent_keyword"
+    ],
+    "confidence": 0.6,
+    "updated_by_message_id": null
+  },
+  {
+    "message_id": "MSG_0251",
+    "item_id": "TASK_029",
+    "priority": "high",
+    "reason": "Priority based on signals: ['deadline_overdue']",
+    "signals": [
+      "deadline_overdue"
+    ],
+    "confidence": 0.6,
+    "updated_by_message_id": null
+  },
+  {
+    "message_id": "MSG_0258",
+    "item_id": "EVENT_028",
+    "priority": "high",
+    "reason": "Priority based on signals: ['deadline_overdue']",
+    "signals": [
+      "deadline_overdue"
+    ],
+    "confidence": 0.6,
+    "updated_by_message_id": null
+  },
+  {
+    "message_id": "MSG_0265",
+    "item_id": "TASK_030",
+    "priority": "medium",
+    "reason": "Priority based on signals: ['deadline_soon']",
+    "signals": [
+      "deadline_soon"
+    ],
+    "confidence": 0.6,
+    "updated_by_message_id": null
+  },
+  {
+    "message_id": "MSG_0268",
+    "item_id": "TASK_031",
+    "priority": "low",
+    "reason": "No strong urgency signals found.",
+    "signals": [],
+    "confidence": 0.5,
+    "updated_by_message_id": null
+  },
+  {
+    "message_id": "MSG_0269",
+    "item_id": "TASK_032",
+    "priority": "high",
+    "reason": "Priority based on signals: ['deadline_overdue']",
+    "signals": [
+      "deadline_overdue"
+    ],
+    "confidence": 0.6,
+    "updated_by_message_id": null
+  },
+  {
+    "message_id": "MSG_0275",
+    "item_id": "EVENT_029",
+    "priority": "low",
+    "reason": "No strong urgency signals found.",
+    "signals": [],
+    "confidence": 0.5,
+    "updated_by_message_id": null
+  },
+  {
+    "message_id": "MSG_0280",
+    "item_id": "EVENT_030",
+    "priority": "high",
+    "reason": "Priority based on signals: ['deadline_overdue']",
+    "signals": [
+      "deadline_overdue"
+    ],
+    "confidence": 0.6,
+    "updated_by_message_id": null
+  },
+  {
+    "message_id": "MSG_0283",
+    "item_id": "TASK_033",
+    "priority": "critical",
+    "reason": "Priority based on signals: ['deadline_overdue', 'urgent_keyword']",
+    "signals": [
+      "deadline_overdue",
+      "urgent_keyword"
+    ],
+    "confidence": 0.7,
+    "updated_by_message_id": null
+  },
+  {
+    "message_id": "MSG_0294",
+    "item_id": "TASK_034",
+    "priority": "low",
+    "reason": "No strong urgency signals found.",
+    "signals": [],
+    "confidence": 0.5,
+    "updated_by_message_id": null
+  },
+  {
+    "message_id": "MSG_0302",
+    "item_id": "EVENT_031",
+    "priority": "medium",
+    "reason": "Priority based on signals: ['urgent_keyword']",
+    "signals": [
+      "urgent_keyword"
+    ],
+    "confidence": 0.6,
+    "updated_by_message_id": null
+  },
+  {
+    "message_id": "MSG_0309",
+    "item_id": "TASK_035",
+    "priority": "high",
+    "reason": "Priority based on signals: ['deadline_overdue', 'response_required']",
+    "signals": [
+      "deadline_overdue",
+      "response_required"
+    ],
+    "confidence": 0.7,
+    "updated_by_message_id": null
+  },
+  {
+    "message_id": "MSG_0311",
+    "item_id": "EVENT_032",
+    "priority": "low",
+    "reason": "Updated by follow-up message MSG_0956 with signals [].",
+    "signals": [
+      "response_required"
+    ],
+    "confidence": 0.6,
+    "updated_by_message_id": "MSG_0956"
+  },
+  {
+    "message_id": "MSG_0319",
+    "item_id": "EVENT_033",
+    "priority": "low",
+    "reason": "No strong urgency signals found.",
+    "signals": [],
+    "confidence": 0.5,
+    "updated_by_message_id": null
+  },
+  {
+    "message_id": "MSG_0331",
+    "item_id": "TASK_036",
+    "priority": "high",
+    "reason": "Priority based on signals: ['deadline_overdue', 'response_required']",
+    "signals": [
+      "deadline_overdue",
+      "response_required"
+    ],
+    "confidence": 0.7,
+    "updated_by_message_id": null
+  },
+  {
+    "message_id": "MSG_0338",
+    "item_id": "EVENT_034",
+    "priority": "low",
+    "reason": "No strong urgency signals found.",
+    "signals": [],
+    "confidence": 0.5,
+    "updated_by_message_id": null
+  },
+  {
+    "message_id": "MSG_0339",
+    "item_id": "TASK_037",
+    "priority": "high",
+    "reason": "Priority based on signals: ['deadline_overdue']",
+    "signals": [
+      "deadline_overdue"
+    ],
+    "confidence": 0.6,
+    "updated_by_message_id": null
+  },
+  {
+    "message_id": "MSG_0342",
+    "item_id": "EVENT_035",
+    "priority": "medium",
+    "reason": "Priority based on signals: ['deadline_soon', 'response_required']",
+    "signals": [
+      "deadline_soon",
+      "response_required"
+    ],
+    "confidence": 0.7,
+    "updated_by_message_id": null
+  },
+  {
+    "message_id": "MSG_0345",
+    "item_id": "TASK_038",
+    "priority": "high",
+    "reason": "Priority based on signals: ['deadline_overdue']",
+    "signals": [
+      "deadline_overdue"
+    ],
+    "confidence": 0.6,
+    "updated_by_message_id": null
+  },
+  {
+    "message_id": "MSG_0356",
+    "item_id": "EVENT_036",
+    "priority": "medium",
+    "reason": "Priority based on signals: ['deadline_soon']",
+    "signals": [
+      "deadline_soon"
+    ],
+    "confidence": 0.6,
+    "updated_by_message_id": null
+  },
+  {
+    "message_id": "MSG_0357",
+    "item_id": "EVENT_037",
+    "priority": "low",
+    "reason": "No strong urgency signals found.",
+    "signals": [],
+    "confidence": 0.5,
+    "updated_by_message_id": null
+  },
+  {
+    "message_id": "MSG_0368",
+    "item_id": "TASK_039",
+    "priority": "high",
+    "reason": "Priority based on signals: ['deadline_overdue']",
+    "signals": [
+      "deadline_overdue"
+    ],
+    "confidence": 0.6,
+    "updated_by_message_id": null
+  },
+  {
+    "message_id": "MSG_0369",
+    "item_id": "TASK_040",
+    "priority": "high",
+    "reason": "Priority based on signals: ['deadline_overdue']",
+    "signals": [
+      "deadline_overdue"
+    ],
+    "confidence": 0.6,
+    "updated_by_message_id": null
+  },
+  {
+    "message_id": "MSG_0371",
+    "item_id": "EVENT_038",
+    "priority": "low",
+    "reason": "Priority based on signals: ['response_required']",
+    "signals": [
+      "response_required"
+    ],
+    "confidence": 0.6,
+    "updated_by_message_id": null
+  },
+  {
+    "message_id": "MSG_0372",
+    "item_id": "EVENT_039",
+    "priority": "low",
+    "reason": "No strong urgency signals found.",
+    "signals": [],
+    "confidence": 0.5,
+    "updated_by_message_id": null
+  },
+  {
+    "message_id": "MSG_0377",
+    "item_id": "EVENT_040",
+    "priority": "low",
+    "reason": "No strong urgency signals found.",
+    "signals": [],
+    "confidence": 0.5,
+    "updated_by_message_id": null
+  },
+  {
+    "message_id": "MSG_0379",
+    "item_id": "TASK_041",
+    "priority": "high",
+    "reason": "Priority based on signals: ['deadline_overdue']",
+    "signals": [
+      "deadline_overdue"
+    ],
+    "confidence": 0.6,
+    "updated_by_message_id": null
+  },
+  {
+    "message_id": "MSG_0382",
+    "item_id": "EVENT_041",
+    "priority": "high",
+    "reason": "Priority based on signals: ['deadline_overdue']",
+    "signals": [
+      "deadline_overdue"
+    ],
+    "confidence": 0.6,
+    "updated_by_message_id": null
+  },
+  {
+    "message_id": "MSG_0394",
+    "item_id": "TASK_042",
+    "priority": "high",
+    "reason": "Priority based on signals: ['deadline_overdue']",
+    "signals": [
+      "deadline_overdue"
+    ],
+    "confidence": 0.6,
+    "updated_by_message_id": null
+  },
+  {
+    "message_id": "MSG_0396",
+    "item_id": "TASK_043",
+    "priority": "high",
+    "reason": "Priority based on signals: ['deadline_overdue']",
+    "signals": [
+      "deadline_overdue"
+    ],
+    "confidence": 0.6,
+    "updated_by_message_id": null
+  },
+  {
+    "message_id": "MSG_0398",
+    "item_id": "TASK_044",
+    "priority": "high",
+    "reason": "Priority based on signals: ['deadline_overdue']",
+    "signals": [
+      "deadline_overdue"
+    ],
+    "confidence": 0.6,
+    "updated_by_message_id": null
+  },
+  {
+    "message_id": "MSG_0408",
+    "item_id": "EVENT_042",
+    "priority": "low",
+    "reason": "No strong urgency signals found.",
+    "signals": [],
+    "confidence": 0.5,
+    "updated_by_message_id": null
+  },
+  {
+    "message_id": "MSG_0420",
+    "item_id": "TASK_045",
+    "priority": "high",
+    "reason": "Priority based on signals: ['deadline_overdue']",
+    "signals": [
+      "deadline_overdue"
+    ],
+    "confidence": 0.6,
+    "updated_by_message_id": null
+  },
+  {
+    "message_id": "MSG_0422",
+    "item_id": "TASK_046",
+    "priority": "high",
+    "reason": "Priority based on signals: ['deadline_overdue']",
+    "signals": [
+      "deadline_overdue"
+    ],
+    "confidence": 0.6,
+    "updated_by_message_id": null
+  },
+  {
+    "message_id": "MSG_0423",
+    "item_id": "EVENT_043",
+    "priority": "high",
+    "reason": "Priority based on signals: ['deadline_overdue']",
+    "signals": [
+      "deadline_overdue"
+    ],
+    "confidence": 0.6,
+    "updated_by_message_id": null
+  },
+  {
+    "message_id": "MSG_0424",
+    "item_id": "TASK_047",
+    "priority": "high",
+    "reason": "Priority based on signals: ['deadline_overdue']",
+    "signals": [
+      "deadline_overdue"
+    ],
+    "confidence": 0.6,
+    "updated_by_message_id": null
+  },
+  {
+    "message_id": "MSG_0427",
+    "item_id": "EVENT_044",
+    "priority": "low",
+    "reason": "No strong urgency signals found.",
+    "signals": [],
+    "confidence": 0.5,
+    "updated_by_message_id": null
+  },
+  {
+    "message_id": "MSG_0437",
+    "item_id": "EVENT_045",
+    "priority": "low",
+    "reason": "No strong urgency signals found.",
+    "signals": [],
+    "confidence": 0.5,
+    "updated_by_message_id": null
+  },
+  {
+    "message_id": "MSG_0449",
+    "item_id": "EVENT_046",
+    "priority": "medium",
+    "reason": "Priority based on signals: ['urgent_keyword']",
+    "signals": [
+      "urgent_keyword"
+    ],
+    "confidence": 0.6,
+    "updated_by_message_id": null
+  },
+  {
+    "message_id": "MSG_0456",
+    "item_id": "EVENT_047",
+    "priority": "high",
+    "reason": "Priority based on signals: ['deadline_overdue']",
+    "signals": [
+      "deadline_overdue"
+    ],
+    "confidence": 0.6,
+    "updated_by_message_id": null
+  },
+  {
+    "message_id": "MSG_0457",
+    "item_id": "EVENT_048",
+    "priority": "low",
+    "reason": "Priority based on signals: ['response_required']",
+    "signals": [
+      "response_required"
+    ],
+    "confidence": 0.6,
+    "updated_by_message_id": null
+  },
+  {
+    "message_id": "MSG_0498",
+    "item_id": "TASK_048",
+    "priority": "high",
+    "reason": "Priority based on signals: ['deadline_overdue']",
+    "signals": [
+      "deadline_overdue"
+    ],
+    "confidence": 0.6,
+    "updated_by_message_id": null
+  },
+  {
+    "message_id": "MSG_0500",
+    "item_id": "EVENT_049",
+    "priority": "low",
+    "reason": "No strong urgency signals found.",
+    "signals": [],
+    "confidence": 0.5,
+    "updated_by_message_id": null
+  },
+  {
+    "message_id": "MSG_0501",
+    "item_id": "EVENT_050",
+    "priority": "medium",
+    "reason": "Priority based on signals: ['urgent_keyword']",
+    "signals": [
+      "urgent_keyword"
+    ],
+    "confidence": 0.6,
+    "updated_by_message_id": null
+  },
+  {
+    "message_id": "MSG_0503",
+    "item_id": "TASK_049",
+    "priority": "high",
+    "reason": "Priority based on signals: ['deadline_overdue', 'response_required']",
+    "signals": [
+      "deadline_overdue",
+      "response_required"
+    ],
+    "confidence": 0.7,
+    "updated_by_message_id": null
+  },
+  {
+    "message_id": "MSG_0511",
+    "item_id": "TASK_050",
+    "priority": "high",
+    "reason": "Priority based on signals: ['deadline_overdue']",
+    "signals": [
+      "deadline_overdue"
+    ],
+    "confidence": 0.6,
+    "updated_by_message_id": null
+  },
+  {
+    "message_id": "MSG_0522",
+    "item_id": "EVENT_051",
+    "priority": "low",
+    "reason": "No strong urgency signals found.",
+    "signals": [],
+    "confidence": 0.5,
+    "updated_by_message_id": null
+  },
+  {
+    "message_id": "MSG_0524",
+    "item_id": "EVENT_052",
+    "priority": "low",
+    "reason": "No strong urgency signals found.",
+    "signals": [],
+    "confidence": 0.5,
+    "updated_by_message_id": null
+  },
+  {
+    "message_id": "MSG_0530",
+    "item_id": "TASK_051",
+    "priority": "high",
+    "reason": "Priority based on signals: ['deadline_overdue']",
+    "signals": [
+      "deadline_overdue"
+    ],
+    "confidence": 0.6,
+    "updated_by_message_id": null
+  },
+  {
+    "message_id": "MSG_0536",
+    "item_id": "TASK_052",
+    "priority": "high",
+    "reason": "Priority based on signals: ['deadline_overdue']",
+    "signals": [
+      "deadline_overdue"
+    ],
+    "confidence": 0.6,
+    "updated_by_message_id": null
+  },
+  {
+    "message_id": "MSG_0544",
+    "item_id": "EVENT_053",
+    "priority": "low",
+    "reason": "No strong urgency signals found.",
+    "signals": [],
+    "confidence": 0.5,
+    "updated_by_message_id": null
+  },
+  {
+    "message_id": "MSG_0546",
+    "item_id": "TASK_053",
+    "priority": "high",
+    "reason": "Priority based on signals: ['deadline_overdue']",
+    "signals": [
+      "deadline_overdue"
+    ],
+    "confidence": 0.6,
+    "updated_by_message_id": null
+  },
+  {
+    "message_id": "MSG_0547",
+    "item_id": "TASK_054",
+    "priority": "high",
+    "reason": "Priority based on signals: ['deadline_overdue']",
+    "signals": [
+      "deadline_overdue"
+    ],
+    "confidence": 0.6,
+    "updated_by_message_id": null
+  },
+  {
+    "message_id": "MSG_0551",
+    "item_id": "TASK_055",
+    "priority": "high",
+    "reason": "Priority based on signals: ['deadline_overdue']",
+    "signals": [
+      "deadline_overdue"
+    ],
+    "confidence": 0.6,
+    "updated_by_message_id": null
+  },
+  {
+    "message_id": "MSG_0552",
+    "item_id": "TASK_056",
+    "priority": "high",
+    "reason": "Priority based on signals: ['deadline_overdue']",
+    "signals": [
+      "deadline_overdue"
+    ],
+    "confidence": 0.6,
+    "updated_by_message_id": null
+  },
+  {
+    "message_id": "MSG_0554",
+    "item_id": "TASK_057",
+    "priority": "high",
+    "reason": "Priority based on signals: ['deadline_overdue']",
+    "signals": [
+      "deadline_overdue"
+    ],
+    "confidence": 0.6,
+    "updated_by_message_id": null
+  },
+  {
+    "message_id": "MSG_0556",
+    "item_id": "EVENT_054",
+    "priority": "high",
+    "reason": "Priority based on signals: ['deadline_overdue']",
+    "signals": [
+      "deadline_overdue"
+    ],
+    "confidence": 0.6,
+    "updated_by_message_id": null
+  },
+  {
+    "message_id": "MSG_0559",
+    "item_id": "EVENT_055",
+    "priority": "low",
+    "reason": "No strong urgency signals found.",
+    "signals": [],
+    "confidence": 0.5,
+    "updated_by_message_id": null
+  },
+  {
+    "message_id": "MSG_0566",
+    "item_id": "EVENT_056",
+    "priority": "high",
+    "reason": "Priority based on signals: ['deadline_overdue']",
+    "signals": [
+      "deadline_overdue"
+    ],
+    "confidence": 0.6,
+    "updated_by_message_id": null
+  },
+  {
+    "message_id": "MSG_0577",
+    "item_id": "TASK_058",
+    "priority": "high",
+    "reason": "Priority based on signals: ['deadline_overdue']",
+    "signals": [
+      "deadline_overdue"
+    ],
+    "confidence": 0.6,
+    "updated_by_message_id": null
+  },
+  {
+    "message_id": "MSG_0580",
+    "item_id": "EVENT_057",
+    "priority": "medium",
+    "reason": "Priority based on signals: ['urgent_keyword']",
+    "signals": [
+      "urgent_keyword"
+    ],
+    "confidence": 0.6,
+    "updated_by_message_id": null
+  },
+  {
+    "message_id": "MSG_0584",
+    "item_id": "EVENT_058",
+    "priority": "low",
+    "reason": "No strong urgency signals found.",
+    "signals": [],
+    "confidence": 0.5,
+    "updated_by_message_id": null
+  },
+  {
+    "message_id": "MSG_0585",
+    "item_id": "TASK_059",
+    "priority": "high",
+    "reason": "Priority based on signals: ['deadline_overdue']",
+    "signals": [
+      "deadline_overdue"
+    ],
+    "confidence": 0.6,
+    "updated_by_message_id": null
+  },
+  {
+    "message_id": "MSG_0588",
+    "item_id": "EVENT_059",
+    "priority": "high",
+    "reason": "Priority based on signals: ['deadline_overdue']",
+    "signals": [
+      "deadline_overdue"
+    ],
+    "confidence": 0.6,
+    "updated_by_message_id": null
+  },
+  {
+    "message_id": "MSG_0590",
+    "item_id": "EVENT_060",
+    "priority": "high",
+    "reason": "Priority based on signals: ['deadline_overdue']",
+    "signals": [
+      "deadline_overdue"
+    ],
+    "confidence": 0.6,
+    "updated_by_message_id": null
+  },
+  {
+    "message_id": "MSG_0592",
+    "item_id": "TASK_060",
+    "priority": "low",
+    "reason": "No strong urgency signals found.",
+    "signals": [],
+    "confidence": 0.5,
+    "updated_by_message_id": null
+  },
+  {
+    "message_id": "MSG_0601",
+    "item_id": "TASK_061",
+    "priority": "low",
+    "reason": "No strong urgency signals found.",
+    "signals": [],
+    "confidence": 0.5,
+    "updated_by_message_id": null
+  },
+  {
+    "message_id": "MSG_0603",
+    "item_id": "EVENT_061",
+    "priority": "high",
+    "reason": "Priority based on signals: ['deadline_overdue']",
+    "signals": [
+      "deadline_overdue"
+    ],
+    "confidence": 0.6,
+    "updated_by_message_id": null
+  },
+  {
+    "message_id": "MSG_0605",
+    "item_id": "TASK_062",
+    "priority": "high",
+    "reason": "Priority based on signals: ['deadline_overdue']",
+    "signals": [
+      "deadline_overdue"
+    ],
+    "confidence": 0.6,
+    "updated_by_message_id": null
+  },
+  {
+    "message_id": "MSG_0606",
+    "item_id": "EVENT_062",
+    "priority": "high",
+    "reason": "Priority based on signals: ['deadline_overdue']",
+    "signals": [
+      "deadline_overdue"
+    ],
+    "confidence": 0.6,
+    "updated_by_message_id": null
+  },
+  {
+    "message_id": "MSG_0614",
+    "item_id": "TASK_063",
+    "priority": "high",
+    "reason": "Priority based on signals: ['deadline_overdue']",
+    "signals": [
+      "deadline_overdue"
+    ],
+    "confidence": 0.6,
+    "updated_by_message_id": null
+  },
+  {
+    "message_id": "MSG_0619",
+    "item_id": "EVENT_063",
+    "priority": "high",
+    "reason": "Priority based on signals: ['deadline_overdue']",
+    "signals": [
+      "deadline_overdue"
+    ],
+    "confidence": 0.6,
+    "updated_by_message_id": null
+  },
+  {
+    "message_id": "MSG_0620",
+    "item_id": "TASK_064",
+    "priority": "high",
+    "reason": "Priority based on signals: ['deadline_overdue']",
+    "signals": [
+      "deadline_overdue"
+    ],
+    "confidence": 0.6,
+    "updated_by_message_id": null
+  },
+  {
+    "message_id": "MSG_0624",
+    "item_id": "TASK_065",
+    "priority": "high",
+    "reason": "Priority based on signals: ['deadline_overdue']",
+    "signals": [
+      "deadline_overdue"
+    ],
+    "confidence": 0.6,
+    "updated_by_message_id": null
+  },
+  {
+    "message_id": "MSG_0628",
+    "item_id": "EVENT_064",
+    "priority": "high",
+    "reason": "Priority based on signals: ['deadline_overdue', 'response_required']",
+    "signals": [
+      "deadline_overdue",
+      "response_required"
+    ],
+    "confidence": 0.7,
+    "updated_by_message_id": null
+  },
+  {
+    "message_id": "MSG_0631",
+    "item_id": "EVENT_065",
+    "priority": "high",
+    "reason": "Priority based on signals: ['deadline_overdue']",
+    "signals": [
+      "deadline_overdue"
+    ],
+    "confidence": 0.6,
+    "updated_by_message_id": null
+  },
+  {
+    "message_id": "MSG_0633",
+    "item_id": "TASK_066",
+    "priority": "high",
+    "reason": "Priority based on signals: ['deadline_overdue']",
+    "signals": [
+      "deadline_overdue"
+    ],
+    "confidence": 0.6,
+    "updated_by_message_id": null
+  },
+  {
+    "message_id": "MSG_0639",
+    "item_id": "TASK_067",
+    "priority": "high",
+    "reason": "Priority based on signals: ['deadline_overdue', 'response_required']",
+    "signals": [
+      "deadline_overdue",
+      "response_required"
+    ],
+    "confidence": 0.7,
+    "updated_by_message_id": null
+  },
+  {
+    "message_id": "MSG_0640",
+    "item_id": "TASK_068",
+    "priority": "high",
+    "reason": "Priority based on signals: ['deadline_overdue', 'response_required']",
+    "signals": [
+      "deadline_overdue",
+      "response_required"
+    ],
+    "confidence": 0.7,
+    "updated_by_message_id": null
+  },
+  {
+    "message_id": "MSG_0652",
+    "item_id": "EVENT_066",
+    "priority": "high",
+    "reason": "Priority based on signals: ['deadline_overdue']",
+    "signals": [
+      "deadline_overdue"
+    ],
+    "confidence": 0.6,
+    "updated_by_message_id": null
+  },
+  {
+    "message_id": "MSG_0664",
+    "item_id": "TASK_069",
+    "priority": "high",
+    "reason": "Priority based on signals: ['deadline_overdue']",
+    "signals": [
+      "deadline_overdue"
+    ],
+    "confidence": 0.6,
+    "updated_by_message_id": null
+  },
+  {
+    "message_id": "MSG_0667",
+    "item_id": "TASK_070",
+    "priority": "critical",
+    "reason": "Priority based on signals: ['deadline_overdue', 'urgent_keyword']",
+    "signals": [
+      "deadline_overdue",
+      "urgent_keyword"
+    ],
+    "confidence": 0.7,
+    "updated_by_message_id": null
+  },
+  {
+    "message_id": "MSG_0668",
+    "item_id": "TASK_071",
+    "priority": "low",
+    "reason": "No strong urgency signals found.",
+    "signals": [],
+    "confidence": 0.5,
+    "updated_by_message_id": null
+  },
+  {
+    "message_id": "MSG_0670",
+    "item_id": "TASK_072",
+    "priority": "high",
+    "reason": "Priority based on signals: ['deadline_overdue']",
+    "signals": [
+      "deadline_overdue"
+    ],
+    "confidence": 0.6,
+    "updated_by_message_id": null
+  },
+  {
+    "message_id": "MSG_0673",
+    "item_id": "TASK_073",
+    "priority": "low",
+    "reason": "No strong urgency signals found.",
+    "signals": [],
+    "confidence": 0.5,
+    "updated_by_message_id": null
+  },
+  {
+    "message_id": "MSG_0674",
+    "item_id": "EVENT_067",
+    "priority": "high",
+    "reason": "Priority based on signals: ['deadline_overdue']",
+    "signals": [
+      "deadline_overdue"
+    ],
+    "confidence": 0.6,
+    "updated_by_message_id": null
+  },
+  {
+    "message_id": "MSG_0688",
+    "item_id": "TASK_074",
+    "priority": "high",
+    "reason": "Priority based on signals: ['deadline_overdue']",
+    "signals": [
+      "deadline_overdue"
+    ],
+    "confidence": 0.6,
+    "updated_by_message_id": null
+  },
+  {
+    "message_id": "MSG_0693",
+    "item_id": "EVENT_068",
+    "priority": "high",
+    "reason": "Priority based on signals: ['deadline_overdue']",
+    "signals": [
+      "deadline_overdue"
+    ],
+    "confidence": 0.6,
+    "updated_by_message_id": null
+  },
+  {
+    "message_id": "MSG_0694",
+    "item_id": "TASK_075",
+    "priority": "critical",
+    "reason": "Priority based on signals: ['deadline_overdue', 'urgent_keyword']",
+    "signals": [
+      "deadline_overdue",
+      "urgent_keyword"
+    ],
+    "confidence": 0.7,
+    "updated_by_message_id": null
+  },
+  {
+    "message_id": "MSG_0697",
+    "item_id": "EVENT_069",
+    "priority": "high",
+    "reason": "Priority based on signals: ['deadline_overdue']",
+    "signals": [
+      "deadline_overdue"
+    ],
+    "confidence": 0.6,
+    "updated_by_message_id": null
+  },
+  {
+    "message_id": "MSG_0707",
+    "item_id": "EVENT_070",
+    "priority": "critical",
+    "reason": "Priority based on signals: ['deadline_overdue', 'urgent_keyword']",
+    "signals": [
+      "deadline_overdue",
+      "urgent_keyword"
+    ],
+    "confidence": 0.7,
+    "updated_by_message_id": null
+  },
+  {
+    "message_id": "MSG_0716",
+    "item_id": "EVENT_071",
+    "priority": "high",
+    "reason": "Priority based on signals: ['deadline_overdue', 'response_required']",
+    "signals": [
+      "deadline_overdue",
+      "response_required"
+    ],
+    "confidence": 0.7,
+    "updated_by_message_id": null
+  },
+  {
+    "message_id": "MSG_0720",
+    "item_id": "EVENT_072",
+    "priority": "high",
+    "reason": "Priority based on signals: ['deadline_overdue']",
+    "signals": [
+      "deadline_overdue"
+    ],
+    "confidence": 0.6,
+    "updated_by_message_id": null
+  },
+  {
+    "message_id": "MSG_0730",
+    "item_id": "TASK_076",
+    "priority": "high",
+    "reason": "Priority based on signals: ['deadline_overdue']",
+    "signals": [
+      "deadline_overdue"
+    ],
+    "confidence": 0.6,
+    "updated_by_message_id": null
+  },
+  {
+    "message_id": "MSG_0743",
+    "item_id": "TASK_077",
+    "priority": "high",
+    "reason": "Priority based on signals: ['deadline_overdue']",
+    "signals": [
+      "deadline_overdue"
+    ],
+    "confidence": 0.6,
+    "updated_by_message_id": null
+  },
+  {
+    "message_id": "MSG_0744",
+    "item_id": "EVENT_073",
+    "priority": "high",
+    "reason": "Priority based on signals: ['deadline_overdue']",
+    "signals": [
+      "deadline_overdue"
+    ],
+    "confidence": 0.6,
+    "updated_by_message_id": null
+  },
+  {
+    "message_id": "MSG_0747",
+    "item_id": "EVENT_074",
+    "priority": "high",
+    "reason": "Priority based on signals: ['deadline_overdue']",
+    "signals": [
+      "deadline_overdue"
+    ],
+    "confidence": 0.6,
+    "updated_by_message_id": null
+  },
+  {
+    "message_id": "MSG_0754",
+    "item_id": "TASK_078",
+    "priority": "high",
+    "reason": "Priority based on signals: ['deadline_overdue']",
+    "signals": [
+      "deadline_overdue"
+    ],
+    "confidence": 0.6,
+    "updated_by_message_id": null
+  },
+  {
+    "message_id": "MSG_0757",
+    "item_id": "TASK_079",
+    "priority": "high",
+    "reason": "Priority based on signals: ['deadline_overdue']",
+    "signals": [
+      "deadline_overdue"
+    ],
+    "confidence": 0.6,
+    "updated_by_message_id": null
+  },
+  {
+    "message_id": "MSG_0759",
+    "item_id": "EVENT_075",
+    "priority": "high",
+    "reason": "Priority based on signals: ['deadline_overdue']",
+    "signals": [
+      "deadline_overdue"
+    ],
+    "confidence": 0.6,
+    "updated_by_message_id": null
+  },
+  {
+    "message_id": "MSG_0761",
+    "item_id": "TASK_080",
+    "priority": "high",
+    "reason": "Priority based on signals: ['deadline_overdue']",
+    "signals": [
+      "deadline_overdue"
+    ],
+    "confidence": 0.6,
+    "updated_by_message_id": null
+  },
+  {
+    "message_id": "MSG_0787",
+    "item_id": "EVENT_076",
+    "priority": "critical",
+    "reason": "Priority based on signals: ['deadline_overdue', 'urgent_keyword']",
+    "signals": [
+      "deadline_overdue",
+      "urgent_keyword"
+    ],
+    "confidence": 0.7,
+    "updated_by_message_id": null
+  },
+  {
+    "message_id": "MSG_0788",
+    "item_id": "EVENT_077",
+    "priority": "high",
+    "reason": "Priority based on signals: ['deadline_overdue']",
+    "signals": [
+      "deadline_overdue"
+    ],
+    "confidence": 0.6,
+    "updated_by_message_id": null
+  },
+  {
+    "message_id": "MSG_0789",
+    "item_id": "EVENT_078",
+    "priority": "high",
+    "reason": "Priority based on signals: ['deadline_overdue']",
+    "signals": [
+      "deadline_overdue"
+    ],
+    "confidence": 0.6,
+    "updated_by_message_id": null
+  },
+  {
+    "message_id": "MSG_0792",
+    "item_id": "EVENT_079",
+    "priority": "high",
+    "reason": "Priority based on signals: ['deadline_overdue']",
+    "signals": [
+      "deadline_overdue"
+    ],
+    "confidence": 0.6,
+    "updated_by_message_id": null
+  },
+  {
+    "message_id": "MSG_0795",
+    "item_id": "EVENT_080",
+    "priority": "high",
+    "reason": "Priority based on signals: ['deadline_overdue']",
+    "signals": [
+      "deadline_overdue"
+    ],
+    "confidence": 0.6,
+    "updated_by_message_id": null
+  },
+  {
+    "message_id": "MSG_0799",
+    "item_id": "TASK_081",
+    "priority": "high",
+    "reason": "Priority based on signals: ['deadline_overdue']",
+    "signals": [
+      "deadline_overdue"
+    ],
+    "confidence": 0.6,
+    "updated_by_message_id": null
+  },
+  {
+    "message_id": "MSG_0809",
+    "item_id": "TASK_082",
+    "priority": "high",
+    "reason": "Priority based on signals: ['deadline_overdue']",
+    "signals": [
+      "deadline_overdue"
+    ],
+    "confidence": 0.6,
+    "updated_by_message_id": null
+  },
+  {
+    "message_id": "MSG_0814",
+    "item_id": "TASK_083",
+    "priority": "high",
+    "reason": "Priority based on signals: ['deadline_overdue']",
+    "signals": [
+      "deadline_overdue"
+    ],
+    "confidence": 0.6,
+    "updated_by_message_id": null
+  },
+  {
+    "message_id": "MSG_0816",
+    "item_id": "EVENT_081",
+    "priority": "low",
+    "reason": "No strong urgency signals found.",
+    "signals": [],
+    "confidence": 0.5,
+    "updated_by_message_id": null
+  },
+  {
+    "message_id": "MSG_0819",
+    "item_id": "EVENT_082",
+    "priority": "high",
+    "reason": "Priority based on signals: ['deadline_overdue']",
+    "signals": [
+      "deadline_overdue"
+    ],
+    "confidence": 0.6,
+    "updated_by_message_id": null
+  },
+  {
+    "message_id": "MSG_0823",
+    "item_id": "EVENT_083",
+    "priority": "critical",
+    "reason": "Priority based on signals: ['deadline_overdue', 'urgent_keyword']",
+    "signals": [
+      "deadline_overdue",
+      "urgent_keyword"
+    ],
+    "confidence": 0.7,
+    "updated_by_message_id": null
+  },
+  {
+    "message_id": "MSG_0824",
+    "item_id": "TASK_084",
+    "priority": "high",
+    "reason": "Priority based on signals: ['deadline_overdue']",
+    "signals": [
+      "deadline_overdue"
+    ],
+    "confidence": 0.6,
+    "updated_by_message_id": null
+  },
+  {
+    "message_id": "MSG_0829",
+    "item_id": "TASK_085",
+    "priority": "critical",
+    "reason": "Priority based on signals: ['deadline_overdue', 'urgent_keyword']",
+    "signals": [
+      "deadline_overdue",
+      "urgent_keyword"
+    ],
+    "confidence": 0.7,
+    "updated_by_message_id": null
+  },
+  {
+    "message_id": "MSG_0845",
+    "item_id": "EVENT_084",
+    "priority": "high",
+    "reason": "Priority based on signals: ['deadline_overdue']",
+    "signals": [
+      "deadline_overdue"
+    ],
+    "confidence": 0.6,
+    "updated_by_message_id": null
+  },
+  {
+    "message_id": "MSG_0861",
+    "item_id": "TASK_086",
+    "priority": "high",
+    "reason": "Priority based on signals: ['deadline_overdue', 'response_required']",
+    "signals": [
+      "deadline_overdue",
+      "response_required"
+    ],
+    "confidence": 0.7,
+    "updated_by_message_id": null
+  },
+  {
+    "message_id": "MSG_0862",
+    "item_id": "TASK_087",
+    "priority": "high",
+    "reason": "Priority based on signals: ['deadline_overdue']",
+    "signals": [
+      "deadline_overdue"
+    ],
+    "confidence": 0.6,
+    "updated_by_message_id": null
+  },
+  {
+    "message_id": "MSG_0868",
+    "item_id": "EVENT_085",
+    "priority": "high",
+    "reason": "Priority based on signals: ['deadline_overdue', 'response_required']",
+    "signals": [
+      "deadline_overdue",
+      "response_required"
+    ],
+    "confidence": 0.7,
+    "updated_by_message_id": null
+  },
+  {
+    "message_id": "MSG_0871",
+    "item_id": "EVENT_086",
+    "priority": "high",
+    "reason": "Priority based on signals: ['deadline_overdue']",
+    "signals": [
+      "deadline_overdue"
+    ],
+    "confidence": 0.6,
+    "updated_by_message_id": null
+  },
+  {
+    "message_id": "MSG_0878",
+    "item_id": "EVENT_087",
+    "priority": "high",
+    "reason": "Priority based on signals: ['deadline_overdue']",
+    "signals": [
+      "deadline_overdue"
+    ],
+    "confidence": 0.6,
+    "updated_by_message_id": null
+  },
+  {
+    "message_id": "MSG_0898",
+    "item_id": "TASK_088",
+    "priority": "high",
+    "reason": "Priority based on signals: ['deadline_overdue', 'response_required']",
+    "signals": [
+      "deadline_overdue",
+      "response_required"
+    ],
+    "confidence": 0.7,
+    "updated_by_message_id": null
+  },
+  {
+    "message_id": "MSG_0903",
+    "item_id": "TASK_089",
+    "priority": "low",
+    "reason": "Priority based on signals: ['response_required']",
+    "signals": [
+      "response_required"
+    ],
+    "confidence": 0.6,
+    "updated_by_message_id": null
+  },
+  {
+    "message_id": "MSG_0910",
+    "item_id": "TASK_090",
+    "priority": "low",
+    "reason": "Priority based on signals: ['response_required']",
+    "signals": [
+      "response_required"
+    ],
+    "confidence": 0.6,
+    "updated_by_message_id": null
+  },
+  {
+    "message_id": "MSG_0912",
+    "item_id": "TASK_091",
+    "priority": "low",
+    "reason": "Priority based on signals: ['response_required']",
+    "signals": [
+      "response_required"
+    ],
+    "confidence": 0.6,
+    "updated_by_message_id": null
+  },
+  {
+    "message_id": "MSG_0913",
+    "item_id": "TASK_092",
+    "priority": "low",
+    "reason": "Priority based on signals: ['response_required']",
+    "signals": [
+      "response_required"
+    ],
+    "confidence": 0.6,
+    "updated_by_message_id": null
+  },
+  {
+    "message_id": "MSG_0916",
+    "item_id": "TASK_093",
+    "priority": "low",
+    "reason": "Priority based on signals: ['response_required']",
+    "signals": [
+      "response_required"
+    ],
+    "confidence": 0.6,
+    "updated_by_message_id": null
+  },
+  {
+    "message_id": "MSG_0923",
+    "item_id": "TASK_094",
+    "priority": "low",
+    "reason": "Priority based on signals: ['response_required']",
+    "signals": [
+      "response_required"
+    ],
+    "confidence": 0.6,
+    "updated_by_message_id": null
+  },
+  {
+    "message_id": "MSG_0930",
+    "item_id": "TASK_095",
+    "priority": "low",
+    "reason": "Priority based on signals: ['response_required']",
+    "signals": [
+      "response_required"
+    ],
+    "confidence": 0.6,
+    "updated_by_message_id": null
+  },
+  {
+    "message_id": "MSG_0938",
+    "item_id": "TASK_096",
+    "priority": "low",
+    "reason": "Updated by follow-up message MSG_0950 with signals [].",
+    "signals": [],
+    "confidence": 0.5,
+    "updated_by_message_id": "MSG_0950"
+  },
+  {
+    "message_id": "MSG_0949",
+    "item_id": "TASK_097",
+    "priority": "low",
+    "reason": "Priority based on signals: ['marked_done']",
+    "signals": [
+      "marked_done"
+    ],
+    "confidence": 0.6,
+    "updated_by_message_id": null
+  },
+  {
+    "message_id": "MSG_0960",
+    "item_id": "EVENT_088",
+    "priority": "low",
+    "reason": "No strong urgency signals found.",
+    "signals": [],
+    "confidence": 0.5,
+    "updated_by_message_id": null
+  },
+  {
+    "message_id": "MSG_0971",
+    "item_id": "TASK_098",
+    "priority": "critical",
+    "reason": "Updated by follow-up message MSG_0989 with signals ['urgent_keyword'].",
+    "signals": [
+      "deadline_overdue",
+      "urgent_keyword"
+    ],
+    "confidence": 0.7,
+    "updated_by_message_id": "MSG_0989"
+  },
+  {
+    "message_id": "MSG_0978",
+    "item_id": "TASK_099",
+    "priority": "high",
+    "reason": "Updated by follow-up message MSG_0990 with signals [].",
+    "signals": [
+      "deadline_overdue"
+    ],
+    "confidence": 0.6,
+    "updated_by_message_id": "MSG_0990"
+  },
+  {
+    "message_id": "MSG_0992",
+    "item_id": "EVENT_089",
+    "priority": "low",
+    "reason": "Updated by follow-up message MSG_1012 with signals [].",
+    "signals": [],
+    "confidence": 0.5,
+    "updated_by_message_id": "MSG_1012"
+  },
+  {
+    "message_id": "MSG_1016",
+    "item_id": "EVENT_090",
+    "priority": "high",
+    "reason": "Updated by follow-up message MSG_1026 with signals [].",
+    "signals": [
+      "deadline_today"
+    ],
+    "confidence": 0.6,
+    "updated_by_message_id": "MSG_1026"
+  },
+  {
+    "message_id": "MSG_1020",
+    "item_id": "EVENT_091",
+    "priority": "low",
+    "reason": "No strong urgency signals found.",
+    "signals": [],
+    "confidence": 0.5,
+    "updated_by_message_id": null
+  },
+  {
+    "message_id": "MSG_1024",
+    "item_id": "EVENT_092",
+    "priority": "low",
+    "reason": "No strong urgency signals found.",
+    "signals": [],
+    "confidence": 0.5,
+    "updated_by_message_id": null
+  },
+  {
+    "message_id": "MSG_1028",
+    "item_id": "EVENT_093",
+    "priority": "medium",
+    "reason": "Priority based on signals: ['deadline_soon']",
+    "signals": [
+      "deadline_soon"
+    ],
+    "confidence": 0.6,
+    "updated_by_message_id": null
+  },
+  {
+    "message_id": "MSG_1032",
+    "item_id": "EVENT_094",
+    "priority": "low",
+    "reason": "No strong urgency signals found.",
+    "signals": [],
+    "confidence": 0.5,
+    "updated_by_message_id": null
+  },
+  {
+    "message_id": "MSG_1040",
+    "item_id": "EVENT_095",
+    "priority": "low",
+    "reason": "No strong urgency signals found.",
+    "signals": [],
+    "confidence": 0.5,
+    "updated_by_message_id": null
+  },
+  {
+    "message_id": "MSG_1050",
+    "item_id": "EVENT_096",
+    "priority": "low",
+    "reason": "No strong urgency signals found.",
+    "signals": [],
+    "confidence": 0.5,
+    "updated_by_message_id": null
+  },
+  {
+    "message_id": "MSG_1057",
+    "item_id": "EVENT_097",
+    "priority": "low",
+    "reason": "No strong urgency signals found.",
+    "signals": [],
+    "confidence": 0.5,
+    "updated_by_message_id": null
+  },
+  {
+    "message_id": "MSG_1058",
+    "item_id": "TASK_100",
+    "priority": "low",
+    "reason": "Updated by follow-up message MSG_1068 with signals [].",
+    "signals": [],
+    "confidence": 0.5,
+    "updated_by_message_id": "MSG_1068"
+  },
+  {
+    "message_id": "MSG_1062",
+    "item_id": "EVENT_098",
+    "priority": "low",
+    "reason": "No strong urgency signals found.",
+    "signals": [],
+    "confidence": 0.5,
+    "updated_by_message_id": null
+  },
+  {
+    "message_id": "MSG_1067",
+    "item_id": "EVENT_099",
+    "priority": "low",
+    "reason": "No strong urgency signals found.",
+    "signals": [],
+    "confidence": 0.5,
+    "updated_by_message_id": null
+  },
+  {
+    "message_id": "DEMO_001",
+    "item_id": "TASK_101",
+    "priority": "medium",
+    "reason": "Priority based on signals: ['urgent_keyword']",
+    "signals": [
+      "urgent_keyword"
+    ],
+    "confidence": 0.6,
+    "updated_by_message_id": null
+  },
+  {
+    "message_id": "DEMO_011",
+    "item_id": "EVENT_100",
+    "priority": "low",
+    "reason": "No strong urgency signals found.",
+    "signals": [],
+    "confidence": 0.5,
+    "updated_by_message_id": null
+  },
+  {
+    "message_id": "DEMO_020",
+    "item_id": "TASK_102",
+    "priority": "low",
+    "reason": "No strong urgency signals found.",
+    "signals": [],
+    "confidence": 0.5,
+    "updated_by_message_id": null
+  },
+  {
+    "message_id": "DEMO_021",
+    "item_id": "TASK_103",
+    "priority": "low",
+    "reason": "No strong urgency signals found.",
+    "signals": [],
+    "confidence": 0.5,
+    "updated_by_message_id": null
+  },
+  {
+    "message_id": "DEMO_023",
+    "item_id": "TASK_104",
+    "priority": "low",
+    "reason": "No strong urgency signals found.",
+    "signals": [],
+    "confidence": 0.5,
+    "updated_by_message_id": null
+  }
+]
